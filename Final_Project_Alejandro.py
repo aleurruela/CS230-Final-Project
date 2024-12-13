@@ -24,10 +24,6 @@ Original file is located at
 #code:
 
 #We start by importing the libraries that we will use
-!pip install streamlit
-!pip install pydeck
-!pip install pandas
-
 import pandas as pd
 import streamlit as st
 import pydeck as pdk
